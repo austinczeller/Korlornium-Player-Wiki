@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/world/korlornium/the-scar/","created":"2025-02-23T23:28:27.140-07:00"}
 ---
 
-
-The Scar or the Scar Sea is a shallow sea which separates the continent of [[World/Korlornium/Korlornium\|Korlornium]]. It was formed during the events of [[Events/The Great Wave\|The Great Wave]]. It now separates the Eastern lands of [[World/Korlornium/Siroth/Siroth\|Siroth]] from the western lands of [[Caldrith\|Caldrith]].
+The Scar or the Scar Sea is a shallow sea which separates the continent of [[World/Korlornium/Korlornium\|Korlornium]]. It was formed during the events of [[Events/The Great Wave\|The Great Wave]]. It now separates the Eastern lands of [[World/Korlornium/Siroth/Siroth\|Siroth]] from the western lands of [[World/Korlornium/Caldirth/Caldrith\|Caldrith]].
 
 The Scar is the vast, treacherous sea that now divides the western and eastern lands of [[World/Korlornium/Korlornium\|Korlornium]]. It was not always an ocean—before the [[Events/The Great Wave\|The Great Wave]] it was fertile land, home to thriving civilizations. However, a catastrophic series of tsunamis and floods submerged the region, leaving only a scattering of islands amidst the waters. The cause of the flood remains a mystery, lost to time, though scholars and priests speculate that it was an act of divine punishment or the workings of ancient, forgotten magic.
 

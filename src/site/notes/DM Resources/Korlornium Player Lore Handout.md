@@ -5,9 +5,8 @@
 ![PXL_20250225_234913733.jpg](/img/user/Images/PXL_20250225_234913733.jpg)
 Map is a work in progress and may change as needed.
 **Map last updated Feb 25 2025**
-## General History Korlornium Geography
-It is 2000 years since [[Events/The Great Wave\|The Great Wave]], the events which created [[World/Korlornium/The Scar\|The Scar]]. [[World/Korlornium/Korlornium\|Korlornium]] is a divided continent both physica
-lly and politically. The western side of the continent, [[Caldirth\|Caldirth]] is a forested and mountainous region with scattered wetlands. The eastern side of the continent, [[World/Korlornium/Siroth/Siroth\|Siroth]] is characterized by its vast deserts, dry savannahs, and pockets of badlands.
+## General History of Korlornium Geography
+It is 2000 years since [[Events/The Great Wave\|The Great Wave]], the events which created [[World/Korlornium/The Scar\|The Scar]]. [[World/Korlornium/Korlornium\|Korlornium]] is a divided continent both physically and politically. The western side of the continent, [[Caldirth\|Caldirth]] is a forested and mountainous region with scattered wetlands. The eastern side of the continent, [[World/Korlornium/Siroth/Siroth\|Siroth]] is characterized by its vast deserts, dry savannahs, and pockets of badlands.
 
 Today, most of the continent's civilization lies within [[Caldirth\|Caldirth]] in wealthy cities such as [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]](the continent's largest settlement) or [[Konduit\|Konduit]] (the political center). Along the coast of [[World/Korlornium/The Scar\|The Scar]] Sea are many smaller port and trade towns, each with their own craft, trade, produce, or good. 
 
