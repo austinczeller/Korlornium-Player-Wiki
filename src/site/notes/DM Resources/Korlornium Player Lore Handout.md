@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/dm-resources/korlornium-player-lore-handout/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/dm-resources/korlornium-player-lore-handout/","tags":["gardenEntry"],"created":"2025-02-24T18:20:10.393-07:00"}
 ---
 
-![PXL_20250225_234913733.jpg](/img/user/PXL_20250225_234913733.jpg)
+![PXL_20250225_234913733.jpg](/img/user/Images/PXL_20250225_234913733.jpg)
 Map is a work in progress and may change as needed.
 **Map last updated Feb 25 2025**
 ## General History Korlornium Geography
@@ -33,8 +33,8 @@ The most common species present in Korlornium are as follows:
 - [[Gnome\|Gnome]]
 - [[Goblin\|Goblin]]
 - [[Tieflings\|Tieflings]]
-- [[Fowlmen\|Fowlmen]]
+- [[Species/Fowlmen\|Fowlmen]]
 Although many more species are present in Korlornium, these are the most common. 
-[[Fowlmen\|Fowlmen]] are an unique species to Korlornium who come from the deserts of [[World/Korlornium/Siroth/Siroth\|Siroth]]. They resemble large humanoid falcons and are tied to the great magics of earth and sky. During the persecution of magic users, [[Fowlmen\|Fowlmen]] either escaped to the Southern Siroth Desert or were killed. Few escaped to [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] as they have an deep connection to the land and the skies of [[World/Korlornium/Siroth/Siroth\|Siroth]]. Nowadays, they occasionally appear in cities across Korlornium but rarely stay long.
+[[Species/Fowlmen\|Fowlmen]] are an unique species to Korlornium who come from the deserts of [[World/Korlornium/Siroth/Siroth\|Siroth]]. They resemble large humanoid falcons and are tied to the great magics of earth and sky. During the persecution of magic users, [[Species/Fowlmen\|Fowlmen]] either escaped to the Southern Siroth Desert or were killed. Few escaped to [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] as they have an deep connection to the land and the skies of [[World/Korlornium/Siroth/Siroth\|Siroth]]. Nowadays, they occasionally appear in cities across Korlornium but rarely stay long.
 
 Halflings and gnomes often appear secluded from the rest of society and rarely integrate into a multi-cultural society. Halflings typically are subsistence farmers and live in small communities which rarely export any goods or accept travelers. Gnomes on the other hand are thought to be one of first species to settle on Korlornium. They are highly secretive and usually have an innate connection to the magics of the weave. Brilliant craftspeople, the gnomes do offer trade to multi-cultural cities. Most people do not know where any gnome settlements are located due to their highly secretive nature. It is thought they cast concealing magic on the perimeter of their settlements.

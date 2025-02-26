@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/mount-redshield/"}
+{"dg-publish":true,"permalink":"/world/mount-redshield/","created":"2025-02-25T11:06:34.631-07:00"}
 ---
 
 

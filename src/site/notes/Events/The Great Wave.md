@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/the-great-wave/"}
+{"dg-publish":true,"permalink":"/events/the-great-wave/","created":"2025-02-25T11:02:25.262-07:00"}
 ---
 
 

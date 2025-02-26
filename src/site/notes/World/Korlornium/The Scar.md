@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/korlornium/the-scar/"}
+{"dg-publish":true,"permalink":"/world/korlornium/the-scar/","created":"2025-02-23T23:28:27.140-07:00"}
 ---
 
 
