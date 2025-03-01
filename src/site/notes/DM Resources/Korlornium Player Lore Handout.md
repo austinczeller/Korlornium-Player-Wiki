@@ -44,7 +44,16 @@ Although many more species are present in Korlornium, these are the most common.
 The gods are known as immortal beings who work together to shape [[Planes/The Mundane World\|The Mundane World]].
 The following list is the current amalgamation of major powers.
 
-```dataview
-TABLE Major Powers
-FROM "Gods/Major Powers"
-```
+| File                                                    |
+| ------------------------------------------------------- |
+| [[Gods/Major Powers/Dithoria (God)\|Dithoria (God)]] |
+| [[Gods/Major Powers/Ulthagos\|Ulthagos]]             |
+| [[Gods/Major Powers/Tidemother\|Tidemother]]         |
+| [[Gods/Major Powers/Sibuna\|Sibuna]]                 |
+| [[Gods/Major Powers/Solwyn\|Solwyn]]                 |
+| [[Gods/Major Powers/Alune\|Alune]]                   |
+| [[Gods/Major Powers/Forgas\|Forgas]]                 |
+| [[Gods/Major Powers/Parsus\|Parsus]]                 |
+| [[Gods/Major Powers/Sora\|Sora]]                     |
+
+{ .block-language-dataview}
