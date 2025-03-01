@@ -23,16 +23,18 @@ For a time after [[Events/The Great Wave\|The Great Wave]] magic users were pers
 ## Species present in Korlornium
 Korlornium is full of diverse cultures and peoples from a variety of intelligent species.
 The most common species present in Korlornium are as follows:
-- [[Species/Human\|Human]]
-- [[Elf\|Elf]] 
-- [[Drow\|Drow]]
-- [[Orc\|Orc]]
-- [[Dwarf\|Dwarf]]
-- [[Species/Halfling\|Halfling]]
-- [[Species/Gnome\|Gnome]]
-- [[Goblin\|Goblin]]
-- [[Tieflings\|Tieflings]]
+- [[Species/Aasimar\|Aasimar]]
 - [[Species/Fowlmen\|Fowlmen]]
+- [[Species/Halfling\|Halfling]]
+- [[Species/Human\|Human]]
+- [[Species/Gnome\|Gnome]]
+- [[Species/Elf\|Elf]]
+- [[Species/Drow\|Drow]]
+- [[Species/Orc\|Orc]]
+- [[Species/Tiefling\|Tiefling]]
+- [[Species/Goblin\|Goblin]]
+
+{ .block-language-dataview}
 
 Although many more species are present in Korlornium, these are the most common. 
 [[Species/Fowlmen\|Fowlmen]] are an unique species to Korlornium who come from the deserts of [[World/Korlornium/Siroth/Siroth\|Siroth]]. They resemble large humanoid falcons and are tied to the great magics of earth and sky. During the persecution of magic users, [[Species/Fowlmen\|Fowlmen]] either escaped to the Southern Siroth Desert or were killed. Few escaped to [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] as they have an deep connection to the land and the skies of [[World/Korlornium/Siroth/Siroth\|Siroth]]. Nowadays, they occasionally appear in cities across Korlornium but rarely stay long.
@@ -42,18 +44,16 @@ Although many more species are present in Korlornium, these are the most common.
 
 ## The pantheon of gods and major powers
 The gods are known as immortal beings who work together to shape [[Planes/The Mundane World\|The Mundane World]].
-The following list is the current amalgamation of major powers.
+The following list is the current list of major powers:
 
-| File                                                    |
-| ------------------------------------------------------- |
-| [[Gods/Major Powers/Dithoria (God)\|Dithoria (God)]] |
-| [[Gods/Major Powers/Ulthagos\|Ulthagos]]             |
-| [[Gods/Major Powers/Tidemother\|Tidemother]]         |
-| [[Gods/Major Powers/Sibuna\|Sibuna]]                 |
-| [[Gods/Major Powers/Solwyn\|Solwyn]]                 |
-| [[Gods/Major Powers/Alune\|Alune]]                   |
-| [[Gods/Major Powers/Forgas\|Forgas]]                 |
-| [[Gods/Major Powers/Parsus\|Parsus]]                 |
-| [[Gods/Major Powers/Sora\|Sora]]                     |
+- [[Gods/Major Powers/Dithoria (God)\|Dithoria (God)]]
+- [[Gods/Major Powers/Ulthagos\|Ulthagos]]
+- [[Gods/Major Powers/Tidemother\|Tidemother]]
+- [[Gods/Major Powers/Sibuna\|Sibuna]]
+- [[Gods/Major Powers/Solwyn\|Solwyn]]
+- [[Gods/Major Powers/Alune\|Alune]]
+- [[Gods/Major Powers/Forgas\|Forgas]]
+- [[Gods/Major Powers/Parsus\|Parsus]]
+- [[Gods/Major Powers/Sora\|Sora]]
 
 { .block-language-dataview}
