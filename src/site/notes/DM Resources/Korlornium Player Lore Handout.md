@@ -13,7 +13,7 @@ Today, most of the continent's civilization lies within [[Caldirth\|Caldirth]] i
 Much of these trades are sent to [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] across [[World/Korlornium/The Scar\|The Scar]] Sea via the protection of pirate gangs. These pirate gangs operate large scows, or flat bottomed ships, which can sail the shallow waters of [[World/Korlornium/The Scar\|The Scar]] Sea. Upon arrival in [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] much of the goods and services are offloaded, only left with the lower quality supplies to be sent off to [[World/Korlornium/Siroth/Siroth\|Siroth]]'s capital, [[Cragbrook\|Cragbrook]]. [[Cragbrook\|Cragbrook]] is the largest civilization on [[World/Korlornium/Siroth/Siroth\|Siroth]] and is riddled with corruption and stark disproportionate distribution of wealth. [[World/Korlornium/Siroth/Siroth\|Siroth]] is generally considered to be poor, and transient populations scour the dry lands for suitable settlement. 
 
 
-## Of Events of The Great Wave and Creation of The Scar
+## Events of The Great Wave and Creation of The Scar
 [[Events/The Great Wave\|The Great Wave]] is known as a series of tsunamis and earthquakes which flooded the central lowlands of [[World/Korlornium/Korlornium\|Korlornium]], creating [[World/Korlornium/The Scar\|The Scar]] as it is known today. Notably, [[World/Mount Redshield\|Mount Redshield]] located in the northern central region of the continent violently erupted, covering the region in soot, ash, and magma. 
 
 Prior to [[Events/The Great Wave\|The Great Wave]], much of [[World/Korlornium/Korlornium\|Korlornium]]'s people lived in settlements in the central lowlands of the continent, therefore much of the written records of [[Events/The Great Wave\|The Great Wave]] were lost. However, pockets of communities were able to survive this catastrophe as they escaped toward high ground. Survivors speculated that [[Events/The Great Wave\|The Great Wave]] was an act of the gods. It is a common sentiment that the civilizations residing in central lowlands were meddling in arcane powers beyond the gods' wishes. 
@@ -33,7 +33,12 @@ The most common species present in Korlornium are as follows:
 - [[Goblin\|Goblin]]
 - [[Tieflings\|Tieflings]]
 - [[Species/Fowlmen\|Fowlmen]]
+
 Although many more species are present in Korlornium, these are the most common. 
 [[Species/Fowlmen\|Fowlmen]] are an unique species to Korlornium who come from the deserts of [[World/Korlornium/Siroth/Siroth\|Siroth]]. They resemble large humanoid falcons and are tied to the great magics of earth and sky. During the persecution of magic users, [[Species/Fowlmen\|Fowlmen]] either escaped to the Southern Siroth Desert or were killed. Few escaped to [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] as they have an deep connection to the land and the skies of [[World/Korlornium/Siroth/Siroth\|Siroth]]. Nowadays, they occasionally appear in cities across Korlornium but rarely stay long.
 
-Halflings and gnomes often appear secluded from the rest of society and rarely integrate into a multi-cultural society. Halflings typically are subsistence farmers and live in small communities which rarely export any goods or accept travelers. Gnomes on the other hand are thought to be one of first species to settle on Korlornium. They are highly secretive and usually have an innate connection to the magics of the weave. Brilliant craftspeople, the gnomes do offer trade to multi-cultural cities. Most people do not know where any gnome settlements are located due to their highly secretive nature. It is thought they cast concealing magic on the perimeter of their settlements.
+[[Halfling\|Halfling]]s and gnomes often appear secluded from the rest of society and rarely integrate into a multi-cultural society. Halflings typically are subsistence farmers and live in small communities which rarely export any goods or accept travelers. Gnomes on the other hand are thought to be one of first species to settle on Korlornium. They are highly secretive and usually have an innate connection to the magics of the weave. Brilliant craftspeople, the gnomes do offer trade to multi-cultural cities. Most people do not know where any gnome settlements are located due to their highly secretive nature. It is thought they cast concealing magic on the perimeter of their settlements.
+
+Orc
+
+## O
