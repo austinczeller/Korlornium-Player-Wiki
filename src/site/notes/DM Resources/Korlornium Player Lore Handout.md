@@ -39,6 +39,12 @@ Although many more species are present in Korlornium, these are the most common.
 
 [[Species/Halfling\|Halfling]]s and gnomes often appear secluded from the rest of society and rarely integrate into a multi-cultural society. Halflings typically are subsistence farmers and live in small communities which rarely export any goods or accept travelers. Gnomes on the other hand are thought to be one of first species to settle on Korlornium. They are highly secretive and usually have an innate connection to the magics of the weave. Brilliant craftspeople, the gnomes do offer trade to multi-cultural cities. Most people do not know where any gnome settlements are located due to their highly secretive nature. It is thought they cast concealing magic on the perimeter of their settlements.
 
-Orc
 
-## O
+## The pantheon of gods and major powers
+The gods are known as immortal beings who work together to shape [[Planes/The Mundane World\|The Mundane World]].
+The following list is the current amalgamation of major powers.
+
+```dataview
+TABLE Major Powers
+FROM "Gods/Major Powers"
+```
