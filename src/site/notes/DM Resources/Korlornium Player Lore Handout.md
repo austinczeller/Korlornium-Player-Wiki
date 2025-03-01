@@ -23,13 +23,13 @@ For a time after [[Events/The Great Wave\|The Great Wave]] magic users were pers
 ## Species present in Korlornium
 Korlornium is full of diverse cultures and peoples from a variety of intelligent species.
 The most common species present in Korlornium are as follows:
-- [[Human\|Human]]
+- [[Species/Human\|Human]]
 - [[Elf\|Elf]] 
 - [[Drow\|Drow]]
 - [[Orc\|Orc]]
 - [[Dwarf\|Dwarf]]
-- [[Halfling\|Halfling]]
-- [[Gnome\|Gnome]]
+- [[Species/Halfling\|Halfling]]
+- [[Species/Gnome\|Gnome]]
 - [[Goblin\|Goblin]]
 - [[Tieflings\|Tieflings]]
 - [[Species/Fowlmen\|Fowlmen]]
@@ -37,7 +37,7 @@ The most common species present in Korlornium are as follows:
 Although many more species are present in Korlornium, these are the most common. 
 [[Species/Fowlmen\|Fowlmen]] are an unique species to Korlornium who come from the deserts of [[World/Korlornium/Siroth/Siroth\|Siroth]]. They resemble large humanoid falcons and are tied to the great magics of earth and sky. During the persecution of magic users, [[Species/Fowlmen\|Fowlmen]] either escaped to the Southern Siroth Desert or were killed. Few escaped to [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] as they have an deep connection to the land and the skies of [[World/Korlornium/Siroth/Siroth\|Siroth]]. Nowadays, they occasionally appear in cities across Korlornium but rarely stay long.
 
-[[Halfling\|Halfling]]s and gnomes often appear secluded from the rest of society and rarely integrate into a multi-cultural society. Halflings typically are subsistence farmers and live in small communities which rarely export any goods or accept travelers. Gnomes on the other hand are thought to be one of first species to settle on Korlornium. They are highly secretive and usually have an innate connection to the magics of the weave. Brilliant craftspeople, the gnomes do offer trade to multi-cultural cities. Most people do not know where any gnome settlements are located due to their highly secretive nature. It is thought they cast concealing magic on the perimeter of their settlements.
+[[Species/Halfling\|Halfling]]s and gnomes often appear secluded from the rest of society and rarely integrate into a multi-cultural society. Halflings typically are subsistence farmers and live in small communities which rarely export any goods or accept travelers. Gnomes on the other hand are thought to be one of first species to settle on Korlornium. They are highly secretive and usually have an innate connection to the magics of the weave. Brilliant craftspeople, the gnomes do offer trade to multi-cultural cities. Most people do not know where any gnome settlements are located due to their highly secretive nature. It is thought they cast concealing magic on the perimeter of their settlements.
 
 Orc
 
