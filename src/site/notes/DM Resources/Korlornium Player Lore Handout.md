@@ -6,9 +6,9 @@
 Map is a work in progress and may change as needed.
 **Map last updated Feb 25 2025**
 ## General History of Korlornium Geography
-It is 2000 years since [[Events/The Great Wave\|The Great Wave]], the events which created [[World/Korlornium/The Scar\|The Scar]]. [[World/Korlornium/Korlornium\|Korlornium]] is a divided continent both physically and politically. The western side of the continent, [[Caldirth\|Caldirth]] is a forested and mountainous region with scattered wetlands. The eastern side of the continent, [[World/Korlornium/Siroth/Siroth\|Siroth]] is characterized by its vast deserts, dry savannahs, and pockets of badlands.
+It is 2000 years since [[Events/The Great Wave\|The Great Wave]], the events which created [[World/Korlornium/The Scar\|The Scar]]. [[World/Korlornium/Korlornium\|Korlornium]] is a divided continent both physically and politically. The western side of the continent, [[World/Korlornium/Caldirth/Caldrith\|Caldrith]] is a forested and mountainous region with scattered wetlands. The eastern side of the continent, [[World/Korlornium/Siroth/Siroth\|Siroth]] is characterized by its vast deserts, dry savannahs, and pockets of badlands.
 
-Today, most of the continent's civilization lies within [[Caldirth\|Caldirth]] in wealthy cities such as [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]](the continent's largest settlement) or [[Konduit\|Konduit]] (the political center). Along the coast of [[World/Korlornium/The Scar\|The Scar]] Sea are many smaller port and trade towns, each with their own craft, trade, produce, or good. 
+Today, most of the continent's civilization lies within [[World/Korlornium/Caldirth/Caldrith\|Caldrith]] in wealthy cities such as [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]](the continent's largest settlement) or [[Konduit\|Konduit]] (the political center). Along the coast of [[World/Korlornium/The Scar\|The Scar]] Sea are many smaller port and trade towns, each with their own craft, trade, produce, or good. 
 
 Much of these trades are sent to [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] across [[World/Korlornium/The Scar\|The Scar]] Sea via the protection of pirate gangs. These pirate gangs operate large scows, or flat bottomed ships, which can sail the shallow waters of [[World/Korlornium/The Scar\|The Scar]] Sea. Upon arrival in [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] much of the goods and services are offloaded, only left with the lower quality supplies to be sent off to [[World/Korlornium/Siroth/Siroth\|Siroth]]'s capital, [[Cragbrook\|Cragbrook]]. [[Cragbrook\|Cragbrook]] is the largest civilization on [[World/Korlornium/Siroth/Siroth\|Siroth]] and is riddled with corruption and stark disproportionate distribution of wealth. [[World/Korlornium/Siroth/Siroth\|Siroth]] is generally considered to be poor, and transient populations scour the dry lands for suitable settlement. 
 
@@ -33,6 +33,7 @@ The most common species present in Korlornium are as follows:
 - [[Species/Orc\|Orc]]
 - [[Species/Tiefling\|Tiefling]]
 - [[Species/Goblin\|Goblin]]
+- [[Species/Dwarf\|Dwarf]]
 
 { .block-language-dataview}
 

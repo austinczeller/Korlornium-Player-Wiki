@@ -12,7 +12,7 @@ Across [[World/Korlornium/Korlornium\|Korlornium]], the wolf serves as her sacre
 
 Some myths tell of Sibuna hunting souls who try to escape their fate, chasing them down through the stars or across the fields of the afterlife. Others whisper that when Sibuna howls, it is a warning: death approaches, and no magic, no prayer, can hold it back.
 
-In the early days of moratality within [[Planes/The Mundane World\|The Mundane World]], Sibuna acknowledged a mortal, as worthy enough to take as her champion, [[Antiochus\|Antiochus]]. He was known as the first mortal to acknowledge death and the wolf who hunts our souls.
+In the early days of moratality within [[Planes/The Mundane World\|The Mundane World]], Sibuna acknowledged a mortal, as worthy enough to take as her champion, [[Gods/Champions/Antiochus\|Antiochus]]. He was known as the first mortal to acknowledge death and the wolf who hunts our souls.
 
 
 
