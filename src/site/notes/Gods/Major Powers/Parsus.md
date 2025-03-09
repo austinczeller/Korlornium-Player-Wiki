@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/gods/major-powers/parsus/","created":"2025-03-01T11:25:15.086-07:00"}
 ---
 
-[[Gods/Major Powers/Parsus\|Parsus]], god of rain and snow, is revered as the bringer of life and renewal. Farmers across [[World/Korlornium/Korlornium\|Korlornium]], especially those within the [[Pugent Delta\|Pugent Delta]], offer prayers and sacrifices to Parsus, seeking his favor for abundant harvests and fertile lands.
+[[Gods/Major Powers/Parsus\|Parsus]], god of rain and snow, is revered as the bringer of life and renewal. Farmers across [[World/Korlornium/Korlornium\|Korlornium]], especially those within the [[World/Korlornium/Caldirth/Pugent Delta\|Pugent Delta]], offer prayers and sacrifices to Parsus, seeking his favor for abundant harvests and fertile lands.
 
 In the arid expanse of [[World/Korlornium/Siroth/Siroth\|Siroth]], where the parched earth thirsts for his blessing, faith in Parsus is particularly strong. His rains carve rivers through the desert, filling long-dry basins, and his snowfall feeds the highland springs, ensuring survival in the harsh climate. Many nomadic tribes of Siroth view him as a wanderer, moving with the shifting sands, bestowing water where it is needed most.
 

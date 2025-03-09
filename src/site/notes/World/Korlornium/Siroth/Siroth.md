@@ -3,4 +3,4 @@
 ---
 
 Siroth is the eastern side of [[World/Korlornium/Korlornium\|Korlornium]], separated from [[World/Korlornium/Caldirth/Caldrith\|Caldrith]] via [[World/Korlornium/The Scar\|The Scar]]. It is a vast dry landscape full of deserts, dunes, savannahs and scattered badlands.
-[[Species/Fowlmen\|Fowlmen]] are said to have originated from the sands of [[The Great Dune\|The Great Dune]].
+[[Species/Common Intelligent Species/Fowlmen\|Fowlmen]] are said to have originated from the sands of [[The Great Dune\|The Great Dune]].

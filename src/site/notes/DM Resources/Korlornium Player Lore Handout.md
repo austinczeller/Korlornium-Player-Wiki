@@ -23,24 +23,24 @@ For a time after [[Events/The Great Wave\|The Great Wave]] magic users were pers
 ## Species present in Korlornium
 Korlornium is full of diverse cultures and peoples from a variety of intelligent species.
 The most common species present in Korlornium are as follows:
-- [[Species/Aasimar\|Aasimar]]
-- [[Species/Fowlmen\|Fowlmen]]
-- [[Species/Halfling\|Halfling]]
-- [[Species/Human\|Human]]
-- [[Species/Gnome\|Gnome]]
-- [[Species/Elf\|Elf]]
-- [[Species/Drow\|Drow]]
-- [[Species/Orc\|Orc]]
-- [[Species/Tiefling\|Tiefling]]
-- [[Species/Goblin\|Goblin]]
-- [[Species/Dwarf\|Dwarf]]
+- [[Species/Common Intelligent Species/Aasimar\|Aasimar]]
+- [[Species/Common Intelligent Species/Dwarf\|Dwarf]]
+- [[Species/Common Intelligent Species/Drow\|Drow]]
+- [[Species/Common Intelligent Species/Elf\|Elf]]
+- [[Species/Common Intelligent Species/Fowlmen\|Fowlmen]]
+- [[Species/Common Intelligent Species/Gnome\|Gnome]]
+- [[Species/Common Intelligent Species/Orc\|Orc]]
+- [[Species/Common Intelligent Species/Halfling\|Halfling]]
+- [[Species/Common Intelligent Species/Goblin\|Goblin]]
+- [[Species/Common Intelligent Species/Human\|Human]]
+- [[Species/Common Intelligent Species/Tiefling\|Tiefling]]
 
 { .block-language-dataview}
 
 Although many more species are present in Korlornium, these are the most common. 
-[[Species/Fowlmen\|Fowlmen]] are an unique species to Korlornium who come from the deserts of [[World/Korlornium/Siroth/Siroth\|Siroth]]. They resemble large humanoid falcons and are tied to the great magics of earth and sky. During the persecution of magic users, [[Species/Fowlmen\|Fowlmen]] either escaped to the Southern Siroth Desert or were killed. Few escaped to [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] as they have an deep connection to the land and the skies of [[World/Korlornium/Siroth/Siroth\|Siroth]]. Nowadays, they occasionally appear in cities across Korlornium but rarely stay long.
+[[Species/Common Intelligent Species/Fowlmen\|Fowlmen]] are an unique species to Korlornium who come from the deserts of [[World/Korlornium/Siroth/Siroth\|Siroth]]. They resemble large humanoid falcons and are tied to the great magics of earth and sky. During the persecution of magic users, [[Species/Common Intelligent Species/Fowlmen\|Fowlmen]] either escaped to the Southern Siroth Desert or were killed. Few escaped to [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] as they have an deep connection to the land and the skies of [[World/Korlornium/Siroth/Siroth\|Siroth]]. Nowadays, they occasionally appear in cities across Korlornium but rarely stay long.
 
-[[Species/Halfling\|Halfling]]s and gnomes often appear secluded from the rest of society and rarely integrate into a multi-cultural society. Halflings typically are subsistence farmers and live in small communities which rarely export any goods or accept travelers. Gnomes on the other hand are thought to be one of first species to settle on Korlornium. They are highly secretive and usually have an innate connection to the magics of the weave. Brilliant craftspeople, the gnomes do offer trade to multi-cultural cities. Most people do not know where any gnome settlements are located due to their highly secretive nature. It is thought they cast concealing magic on the perimeter of their settlements.
+[[Species/Common Intelligent Species/Halfling\|Halfling]]s and gnomes often appear secluded from the rest of society and rarely integrate into a multi-cultural society. Halflings typically are subsistence farmers and live in small communities which rarely export any goods or accept travelers. Gnomes on the other hand are thought to be one of first species to settle on Korlornium. They are highly secretive and usually have an innate connection to the magics of the weave. Brilliant craftspeople, the gnomes do offer trade to multi-cultural cities. Most people do not know where any gnome settlements are located due to their highly secretive nature. It is thought they cast concealing magic on the perimeter of their settlements.
 
 
 ## The pantheon of gods and major powers
@@ -48,13 +48,14 @@ The gods are known as immortal beings who work together to shape [[Planes/The Mu
 The following list is the current list of major powers:
 
 - [[Gods/Major Powers/Dithoria (God)\|Dithoria (God)]]
+- [[Gods/Major Powers/Forgas\|Forgas]]
+- [[Gods/Major Powers/Sibuna\|Sibuna]]
+- [[Gods/Major Powers/Alune\|Alune]]
+- [[Gods/Major Powers/Parsus\|Parsus]]
+- [[Gods/Major Powers/Solwyn\|Solwyn]]
+- [[Gods/Major Powers/Sora\|Sora]]
 - [[Gods/Major Powers/Ulthagos\|Ulthagos]]
 - [[Gods/Major Powers/Tidemother\|Tidemother]]
-- [[Gods/Major Powers/Sibuna\|Sibuna]]
-- [[Gods/Major Powers/Solwyn\|Solwyn]]
-- [[Gods/Major Powers/Alune\|Alune]]
-- [[Gods/Major Powers/Forgas\|Forgas]]
-- [[Gods/Major Powers/Parsus\|Parsus]]
-- [[Gods/Major Powers/Sora\|Sora]]
+- [[Gods/Major Powers/Elaris\|Elaris]]
 
 { .block-language-dataview}
