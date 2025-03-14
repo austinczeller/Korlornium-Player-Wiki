@@ -59,3 +59,5 @@ The following list is the current list of major powers:
 - [[Gods/Major Powers/Sora\|Sora]]
 
 { .block-language-dataview}
+
+# Recap of Previous Sessions
