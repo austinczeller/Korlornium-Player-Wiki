@@ -4,7 +4,7 @@
 
 ![Korlornium.png](/img/user/Images/Korlornium.png)
 Map is a work in progress and may change as needed.
-**Map last updated Feb 25 2025**
+**Map last updated March 10 2025**
 ## General History of Korlornium Geography
 It is 2000 years since [[Events/The Great Wave\|The Great Wave]], the events which created [[World/Korlornium/The Scar\|The Scar]]. [[World/Korlornium/Korlornium\|Korlornium]] is a divided continent both physically and politically. The western side of the continent, [[World/Korlornium/Caldirth/Caldrith\|Caldrith]] is a forested and mountainous region with scattered wetlands. The eastern side of the continent, [[World/Korlornium/Siroth/Siroth\|Siroth]] is characterized by its vast deserts, dry savannahs, and pockets of badlands.
 
