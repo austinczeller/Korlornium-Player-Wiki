@@ -10,7 +10,7 @@ It is 2000 years since [[Events/The Great Wave\|The Great Wave]], the events whi
 
 Today, most of the continent's civilization lies within [[World/Korlornium/Caldirth/Caldrith\|Caldrith]] in wealthy cities such as [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]](the continent's largest settlement) or [[Konduit\|Konduit]] (the political center). Along the coast of [[World/Korlornium/The Scar\|The Scar]] Sea are many smaller port and trade towns, each with their own craft, trade, produce, or good. 
 
-Much of these trades are sent to [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] across [[World/Korlornium/The Scar\|The Scar]] Sea via the protection of pirate gangs. These pirate gangs operate large scows, or flat bottomed ships, which can sail the shallow waters of [[World/Korlornium/The Scar\|The Scar]] Sea. Upon arrival in [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] much of the goods and services are offloaded, only left with the lower quality supplies to be sent off to [[World/Korlornium/Siroth/Siroth\|Siroth]]'s capital, [[Cragbrook\|Cragbrook]]. [[Cragbrook\|Cragbrook]] is the largest civilization on [[World/Korlornium/Siroth/Siroth\|Siroth]] and is riddled with corruption and stark disproportionate distribution of wealth. [[World/Korlornium/Siroth/Siroth\|Siroth]] is generally considered to be poor, and transient populations scour the dry lands for suitable settlement. 
+Much of these trades are sent to [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] across [[World/Korlornium/The Scar\|The Scar]] Sea via the protection of pirate gangs. These pirate gangs operate large scows, or flat bottomed ships, which can sail the shallow waters of [[World/Korlornium/The Scar\|The Scar Sea]]. Upon arrival in [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] much of the goods and services are offloaded, only left with the lower quality supplies to be sent off to [[World/Korlornium/Siroth/Siroth\|Siroth]]'s capital, [[Cragbrook\|Cragbrook]]. [[Cragbrook\|Cragbrook]] is the largest civilization on [[World/Korlornium/Siroth/Siroth\|Siroth]] and is riddled with corruption and stark disproportionate distribution of wealth. [[World/Korlornium/Siroth/Siroth\|Siroth]] is generally considered to be poor, and transient populations scour the dry lands for suitable settlement. 
 
 
 ## Events of The Great Wave and Creation of The Scar
@@ -21,8 +21,8 @@ Prior to [[Events/The Great Wave\|The Great Wave]], much of [[World/Korlornium/K
 For a time after [[Events/The Great Wave\|The Great Wave]] magic users were persecuted in [[World/Korlornium/Siroth/Siroth\|Siroth]], many took shelter in [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] where they believe that magic, specifically divine magic from the god of law and order [[Gods/Major Powers/Dithoria (God)\|Dithoria (God)]] , saved them behind the walls of the great city from the tragedies which plagued the rest of the continent. This persecution has shaped the [[World/Korlornium/Siroth/Siroth\|Siroth]] culture to be very conservative.
  
 ## Species present in Korlornium
-Korlornium is full of diverse cultures and peoples from a variety of intelligent species.
-The most common species present in Korlornium are as follows:
+[[World/Korlornium/Korlornium\|Korlornium]] is full of diverse cultures and peoples from a variety of intelligent species.
+The most common species present in [[World/Korlornium/Korlornium\|Korlornium]] are as follows:
 - [[Species/Common Intelligent Species/Drow\|Drow]]
 - [[Species/Common Intelligent Species/Dwarf\|Dwarf]]
 - [[Species/Common Intelligent Species/Fowlmen\|Fowlmen]]
@@ -60,4 +60,5 @@ The following list is the current list of major powers:
 
 { .block-language-dataview}
 
-# Recap of Previous Sessions
+## The Story So Far
+[[DM Resources/Campaign Log\|Campaign Log]]
