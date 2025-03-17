@@ -10,21 +10,21 @@ Map is a work in progress and may change as needed.
 
 
 ```leaflet  
-id: Korlornium_World_Map ### Must be unique with no spaces  
-image: [[Korlornium.png]] ### Link to the map image file. Do not add a ! in front of the image  
-bounds: [[0,0], [2000, 4000]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
-height: 850px ### Size of the leaflet embed in px on your screen  
-width: 100% ### Size of the leaflet embed in your note  
-lat: 1000 ### To center the map, make this half of the map height.  
-long: 2000 ### To center the map, make this half of the map width.  
-minZoom: -3 ### Controls how far away from the map you can zoom out. Hover over the target icon to see the current level.  
-maxZoom: 1 ### Controls how far towards the map you can zoom in. Hover over the target icon to see the current level.  
-defaultZoom: -2.5 ### Sets the default zoom level when the map loads. Hover over the target icon to see the current level.  
-zoomDelta: 0.5 ### Adjust how much the zoom changes when you zoom in or out.  
-unit: km ### The value displayed when measuring so you know what type of unit is being measure.  
-scale: 0.09328358208955223 ### Real units/px (resolution) of your map  
+id: Korlornium_World_Map 
+image: [[Korlornium.png]] 
+bounds: [[0,0], [2000, 4000]] 
+height: 500px
+width: 100% 
+lat: 1000   
+long: 2000 
+minZoom: -3 
+maxZoom: 1  
+defaultZoom: -2.5   
+zoomDelta: 0.5  
+unit: km 
+scale: 0.09328358208955223 
 recenter: false  
-darkmode: false ### marker
+darkmode: false
 ```
 
 ## General History of Korlornium Geography
@@ -45,16 +45,16 @@ For a time after [[Events/The Great Wave\|The Great Wave]] magic users were pers
 ## Species present in Korlornium
 [[World/Korlornium/Korlornium\|Korlornium]] is full of diverse cultures and peoples from a variety of intelligent species.
 The most common species present in [[World/Korlornium/Korlornium\|Korlornium]] are as follows:
-- [[Species/Common Intelligent Species/Aasimar\|Aasimar]]
 - [[Species/Common Intelligent Species/Drow\|Drow]]
-- [[Species/Common Intelligent Species/Dwarf\|Dwarf]]
+- [[Species/Common Intelligent Species/Aasimar\|Aasimar]]
 - [[Species/Common Intelligent Species/Elf\|Elf]]
-- [[Species/Common Intelligent Species/Goblin\|Goblin]]
 - [[Species/Common Intelligent Species/Gnome\|Gnome]]
-- [[Species/Common Intelligent Species/Human\|Human]]
+- [[Species/Common Intelligent Species/Goblin\|Goblin]]
+- [[Species/Common Intelligent Species/Dwarf\|Dwarf]]
 - [[Species/Common Intelligent Species/Orc\|Orc]]
 - [[Species/Common Intelligent Species/Halfling\|Halfling]]
 - [[Species/Common Intelligent Species/Fowlmen\|Fowlmen]]
+- [[Species/Common Intelligent Species/Human\|Human]]
 - [[Species/Common Intelligent Species/Tiefling\|Tiefling]]
 
 { .block-language-dataview}
@@ -69,16 +69,16 @@ Although many more species are present in Korlornium, these are the most common.
 The gods are known as immortal beings who work together to shape [[Planes/The Mundane World\|The Mundane World]].
 The following list is the current list of major powers:
 
-- [[Gods/Major Powers/Elaris\|Elaris]]
-- [[Gods/Major Powers/Alune\|Alune]]
 - [[Gods/Major Powers/Dithoria (God)\|Dithoria (God)]]
-- [[Gods/Major Powers/Solwyn\|Solwyn]]
 - [[Gods/Major Powers/Forgas\|Forgas]]
-- [[Gods/Major Powers/Sibuna\|Sibuna]]
+- [[Gods/Major Powers/Alune\|Alune]]
+- [[Gods/Major Powers/Solwyn\|Solwyn]]
+- [[Gods/Major Powers/Elaris\|Elaris]]
+- [[Gods/Major Powers/Parsus\|Parsus]]
 - [[Gods/Major Powers/Sora\|Sora]]
 - [[Gods/Major Powers/Tidemother\|Tidemother]]
+- [[Gods/Major Powers/Sibuna\|Sibuna]]
 - [[Gods/Major Powers/Ulthagos\|Ulthagos]]
-- [[Gods/Major Powers/Parsus\|Parsus]]
 
 { .block-language-dataview}
 
