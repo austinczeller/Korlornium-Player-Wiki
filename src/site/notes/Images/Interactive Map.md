@@ -3,5 +3,5 @@
 ---
 
 Test 
-<iframe src="Images/Korlornium_map.html" width="100%" height="520px"></iframe>
+<iframe src="src/site/notes/Images/Korlornium_map.html" width="100%" height="520px"></iframe>
 after
