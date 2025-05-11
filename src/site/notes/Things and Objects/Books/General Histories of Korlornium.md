@@ -13,7 +13,7 @@ Regards,
 
 
 ### Map
-![images/Korlornium.png](/img/user/Images/Korlornium.png)
+![Korlornium.png](/img/user/z_Assests/Images/Korlornium.png)
 Map is a work in progress and may change as needed.
 **Map last updated March 10 2025**
 
@@ -36,16 +36,16 @@ For a time after [[History/The Great Wave\|The Great Wave]] magic users were per
 ### Species present in Korlornium
 [[World/Korlornium/Korlornium\|Korlornium]] is full of diverse cultures and peoples from a variety of intelligent species.
 The most common species present in [[World/Korlornium/Korlornium\|Korlornium]] are as follows:
-- [[Species/Common Intelligent Species/Dwarf\|Dwarf]]
 - [[Species/Common Intelligent Species/Elf\|Elf]]
-- [[Species/Common Intelligent Species/Goblin\|Goblin]]
 - [[Species/Common Intelligent Species/Gnome\|Gnome]]
+- [[Species/Common Intelligent Species/Dwarf\|Dwarf]]
 - [[Species/Common Intelligent Species/Drow\|Drow]]
+- [[Species/Common Intelligent Species/Goblin\|Goblin]]
 - [[Species/Common Intelligent Species/Fowlmen\|Fowlmen]]
-- [[Species/Common Intelligent Species/Human\|Human]]
+- [[Species/Common Intelligent Species/Tiefling\|Tiefling]]
 - [[Species/Common Intelligent Species/Halfling\|Halfling]]
 - [[Species/Common Intelligent Species/Orc\|Orc]]
-- [[Species/Common Intelligent Species/Tiefling\|Tiefling]]
+- [[Species/Common Intelligent Species/Human\|Human]]
 
 { .block-language-dataview}
 
@@ -59,14 +59,14 @@ Although many more species are present in Korlornium, these are the most common.
 The gods are known as immortal beings who work together to shape [[Planes/The Mundane World\|The Mundane World]].
 The following list is the current list of major powers:
 
-- [[Gods/Major Powers/Alune\|Alune]]
 - [[Gods/Major Powers/Forgas\|Forgas]]
+- [[Gods/Major Powers/Alune\|Alune]]
 - [[Gods/Major Powers/Dithoria (God)\|Dithoria (God)]]
-- [[Gods/Major Powers/Sibuna\|Sibuna]]
-- [[Gods/Major Powers/Elaris\|Elaris]]
 - [[Gods/Major Powers/Solwyn\|Solwyn]]
-- [[Gods/Major Powers/Ulthagos\|Ulthagos]]
+- [[Gods/Major Powers/Elaris\|Elaris]]
+- [[Gods/Major Powers/Sibuna\|Sibuna]]
 - [[Gods/Major Powers/Parsus\|Parsus]]
+- [[Gods/Major Powers/Ulthagos\|Ulthagos]]
 - [[Gods/Major Powers/Sora\|Sora]]
 - [[Gods/Major Powers/Tidemother\|Tidemother]]
 
