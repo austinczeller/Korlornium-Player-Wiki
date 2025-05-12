@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/species/common-intelligent-species/halfling/","created":"2025-03-01T10:37:25.585-07:00"}
 ---
 
+# Halfing
 Halflings are small, stout, and intelligent folk who value simplicity, community, and harmony with the land. They are known for their self-sufficient lifestyle, often practicing subsistence farming, foraging, and traditional crafts to sustain their secluded villages. Halflings rarely seek wealth or power, instead prioritizing family bonds, storytelling, and the comforts of home.
 
 Most halfling communities are isolated preferring to keep to themselves rather than engage in large-scale trade. Outsiders who happen upon a halfling village are usually met with polite but cautious hospitality—while halflings are not inherently distrustful, they are wary of those who might disrupt their way of life. Few halfling settlements openly accept travelers, and even fewer export goods beyond what is necessary for trade with trusted neighbors.

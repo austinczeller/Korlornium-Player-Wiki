@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gods/major-powers/sibuna/","created":"2025-03-01T00:09:27.810-07:00"}
 ---
 
+# Sibuna
 > "In the end we cannot out run the hunter"
 
 [[Gods/Major Powers/Sibuna\|Sibuna]], goddess of death, is one of the Three Primordial Sisters, existing since the dawn of time alongside [[Gods/Major Powers/Solwyn\|Solwyn]], the goddess of life, and [[Gods/Major Powers/Alune\|Alune]], the goddess of night. Bound by fate the three sisters are inseparable—where there is life, there is death; where there is darkness, there is the unknown beyond.

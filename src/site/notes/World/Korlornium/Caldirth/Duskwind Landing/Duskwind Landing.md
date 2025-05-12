@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/world/korlornium/caldirth/duskwind-landing/duskwind-landing/","created":"2025-02-23T22:25:38.576-07:00"}
 ---
 
-
+# Duskwind Landing
 ## Description
 
 A newer, small port town located on the [[Duskwind River\|Duskwind River]] in the [[World/Korlornium/Caldirth/Pugent Delta\|Pugent Delta]] region of [[World/Korlornium/Caldirth/Caldrith\|Caldrith]] in [[World/Korlornium/Korlornium\|Korlornium]]. It is fairly transient as many people and stopping and going for shipments of cargo and resupply. The town was notably plagued with the curse of [[History/Sea Rot\|Sea Rot]] which halted export and import of goods to the harbor. A travelling band of adventurers recently quelled the curse and goods have now begun to flow, most notable export is the trade of [[Things and Objects/Spice\|Spice]].
@@ -17,7 +17,7 @@ The vibe is a rainy port town, fairly industrial, has a shady side.
 
 **Stores**:
 - [[World/Korlornium/Caldirth/Duskwind Landing/The General\|The General]]
-- [[World/Korlornium/Caldirth/Duskwind Landing/Fish Market\|Fish Market]]
+- [[World/Korlornium/Caldirth/Duskwind Landing/Duskwind Fish Market\|Duskwind Fish Market]]
 
 **Temples**:
 - [[World/Korlornium/Caldirth/Duskwind Landing/Tidemother Temple of Duskwind\|Tidemother Temple of Duskwind]]

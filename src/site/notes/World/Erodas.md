@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/world/erodas/","created":"2025-05-02T10:40:28.709-07:00"}
 ---
 
+# Erodas
 [[World/Erodas\|Erodas]] is the earth-like planet which contains many continents such as [[World/Korlornium/Korlornium\|Korlornium]].
 
 [[World/Erodas\|Erodas]] has three moons but *typically* only one is visible at night. 

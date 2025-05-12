@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/world/korlornium/caldirth/dithoria-city/dithoria-city/","created":"2025-02-23T23:38:39.331-07:00"}
 ---
 
+# Dithoria City
 ## Overview 
 [[World/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]], named after the god of law and order, [[Gods/Major Powers/Dithoria (God)\|Dithoria (God)]], stands as a gleaming bastion of civilization and structure amidst a chaotic world. It is the largest city in [[World/Korlornium/Korlornium\|Korlornium]] and boasts miliary might across [[World/Korlornium/Caldirth/Caldrith\|Caldrith]]. It was said to be blessed and protected by [[Gods/Major Powers/Dithoria (God)\|Dithoria (God)]] during the cataclysmic event that created [[World/Korlornium/The Scar\|The Scar]]. While much of the surrounding land was torn asunder, the city’s white stone walls remained unscathed, its people sheltered by the divine will of their patron god.
 

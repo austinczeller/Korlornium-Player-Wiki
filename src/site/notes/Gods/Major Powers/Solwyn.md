@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gods/major-powers/solwyn/","created":"2025-03-01T00:29:45.028-07:00"}
 ---
 
+# Solwyn
 > "Praise Sister Sol, she breathes life."
 
 In [[World/Korlornium/Korlornium\|Korlornium]], the people believe that life itself is a gift from the sun, and at the heart of this belief is the radiant goddess [[Gods/Major Powers/Solwyn\|Solwyn]]. She is often depicted as a luminous entity, her form aglow with the golden light of the sun. Every day, it is said that she breathes life into the world, nurturing all living creatures with warmth and vitality.

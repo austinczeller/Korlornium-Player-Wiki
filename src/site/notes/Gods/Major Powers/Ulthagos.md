@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gods/major-powers/ulthagos/","created":"2025-02-23T22:36:29.096-07:00"}
 ---
 
+# Ulthagos
 > "As the earth quakes so does [[Gods/Major Powers/Ulthagos\|Ulthagos]]" 
 
 [[Gods/Major Powers/Ulthagos\|Ulthagos]], the ancient and mighty god of the land, is a figure of immense power and silent wisdom. Often depicted as a towering stone giant, his form is said to embody the very essence of the earth itself—massive and unyielding, with skin like jagged rock and eyes that glow with the deep warmth of molten stone. [[Gods/Major Powers/Ulthagos\|Ulthagos]], with the help of [[Gods/Major Powers/Forgas\|Forgas]], is believed to have forged the land and minerals of [[World/Korlornium/Korlornium\|Korlornium]], shaping mountains, valleys, and caverns with his colossal hands, breathing life into the very ground beneath his people’s feet.

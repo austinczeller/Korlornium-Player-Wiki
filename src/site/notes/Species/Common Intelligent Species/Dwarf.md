@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/species/common-intelligent-species/dwarf/","created":"2025-03-01T13:41:56.503-07:00"}
 ---
 
+# Dwarf
 Dwarves are renowned for their skill in crafting, particularly with iron, stone, and other durable materials. They are expert blacksmiths, stoneworkers, and engineers, known for creating intricate designs and durable constructions that can withstand the test of time. Their societies are built on the principles of craftsmanship, tradition, and the pursuit of perfection in their works. Dwarves take great pride in their ability to shape the earth, transforming raw materials into masterpieces, whether that be in the form of finely wrought armor, majestic stone buildings, or complex mechanical devices.
 
 Dwarves have a deep connection to the gods [[Gods/Major Powers/Ulthagos\|Ulthagos]], the god of the land and earth, and [[Gods/Major Powers/Forgas\|Forgas]], the god of fire and forge. 
