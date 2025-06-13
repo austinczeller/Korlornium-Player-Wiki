@@ -3,9 +3,9 @@
 ---
 
 # The Great Wave
-The Great Wave is the cataclysmic event that gave birth to [[World/Korlornium/The Scar\|The Scar]], reshaping the central lowlands of [[World/Korlornium/Korlornium\|Korlornium]] and altering the course of history. A series of violent tectonic shifts beneath the continent triggered a devastating tsunami, swallowing entire cities and drowning vast stretches of fertile land beneath a relentless surge of water.
+The Great Wave is the cataclysmic event that gave birth to [[World (Erodas)/Korlornium/The Scar\|The Scar]], reshaping the central lowlands of [[World (Erodas)/Korlornium/Korlornium\|Korlornium]] and altering the course of history. A series of violent tectonic shifts beneath the continent triggered a devastating tsunami, swallowing entire cities and drowning vast stretches of fertile land beneath a relentless surge of water.
 
-As if the wrath of the earth itself was not enough, the upheaval awakened [[World/Korlornium/Mount Redshield\|Mount Redshield]], a long-dormant volcano that erupted with terrifying force. Molten rock spilled down its slopes while a massive plume of soot and ash blotted out the sky, casting [[World/Korlornium/Korlornium\|Korlornium]] into an unnatural twilight for months. Crops failed, rivers ran black with debris, and the air itself became thick with the scent of fire and decay.
+As if the wrath of the earth itself was not enough, the upheaval awakened [[World (Erodas)/Korlornium/Mount Redshield\|Mount Redshield]], a long-dormant volcano that erupted with terrifying force. Molten rock spilled down its slopes while a massive plume of soot and ash blotted out the sky, casting [[World (Erodas)/Korlornium/Korlornium\|Korlornium]] into an unnatural twilight for months. Crops failed, rivers ran black with debris, and the air itself became thick with the scent of fire and decay.
 
 Survivors speak of the great temples and cities lost beneath the waves, their ruins now hidden within the depths of The Scar. It is whispered that some of those who perished in the flood never truly died, their spirits lingering in the drowned ruins, restless and vengeful. Others believe that powerful relics—artifacts of the old gods, including [[Gods/Major Powers/Ulthagos\|Ulthagos]] himself—were buried beneath the silt and stone, waiting to be unearthed.
 

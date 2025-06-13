@@ -3,4 +3,4 @@
 ---
 
 # Human
-Humankind are the most widespread intelligent species in [[World/Korlornium/Korlornium\|Korlornium]]. They are resourceful and are typically regarded as visionaries of the realm. 
+Humankind are the most widespread intelligent species in [[World (Erodas)/Korlornium/Korlornium\|Korlornium]]. They are resourceful and are typically regarded as visionaries of the realm. 

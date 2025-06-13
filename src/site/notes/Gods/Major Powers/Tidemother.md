@@ -3,7 +3,7 @@
 ---
 
 # Tidemother
-[[Gods/Major Powers/Tidemother\|Tidemother]], goddess of tides and waves, holds dominion over the shifting seas and the ever-changing currents. Many sailors pray to her for safe passage, offering trinkets, songs, and whispered oaths before setting sail. She is one of the most widely worshiped deities in [[World/Korlornium/Korlornium\|Korlornium]], especially among seafarers who must navigate the treacherous waters of [[World/Korlornium/The Scar\|The Scar]], where unpredictable tides and unseen dangers lurk beneath the waves.
+[[Gods/Major Powers/Tidemother\|Tidemother]], goddess of tides and waves, holds dominion over the shifting seas and the ever-changing currents. Many sailors pray to her for safe passage, offering trinkets, songs, and whispered oaths before setting sail. She is one of the most widely worshiped deities in [[World (Erodas)/Korlornium/Korlornium\|Korlornium]], especially among seafarers who must navigate the treacherous waters of [[World (Erodas)/Korlornium/The Scar\|The Scar]], where unpredictable tides and unseen dangers lurk beneath the waves.
 
 She shares a strong kinship with [[Gods/Major Powers/Alune\|Alune]], goddess of the night, as both are mischievous forces who delight in toying with mortal fates. While [[Gods/Major Powers/Alune\|Alune]] weaves deception in shadow, [[Gods/Major Powers/Tidemother\|Tidemother]] plays her games upon the sea, shifting currents and stirring storms at a whim.
 

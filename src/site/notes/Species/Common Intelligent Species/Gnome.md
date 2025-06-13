@@ -3,7 +3,7 @@
 ---
 
 # Gnome
-Gnomes are highly secretive, small, and intelligent creatures native to [[World/Korlornium/Korlornium\|Korlornium]]. They dwell in hidden enclaves deep within the forests, their homes concealed by both natural camouflage and powerful illusion magic. To outsiders—especially those they call Big Folk"—gnomes often appear standoffish or reclusive, fiercely protective of their way of life.
+Gnomes are highly secretive, small, and intelligent creatures native to [[World (Erodas)/Korlornium/Korlornium\|Korlornium]]. They dwell in hidden enclaves deep within the forests, their homes concealed by both natural camouflage and powerful illusion magic. To outsiders—especially those they call Big Folk"—gnomes often appear standoffish or reclusive, fiercely protective of their way of life.
 
 Despite their secrecy, gnomes are brilliant craftspeople and skilled magic users, particularly attuned to the weave of magic that runs through the land. Their craftsmanship is highly sought after, and while they rarely invite outsiders into their settlements, they engage in selective trade with multi-cultural cities However, even among those who conduct business with gnomes, few know where their settlements truly lie.
 

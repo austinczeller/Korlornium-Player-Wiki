@@ -3,4 +3,4 @@
 ---
 
 # Tortle
-[[Species/Uncommon Species/Tortle\|Tortle]]'s are large intelligent humanoid turtle creatures. They are rare but can be found typically on islands within [[World/Korlornium/The Scar\|The Scar]].
+[[Species/Uncommon Species/Tortle\|Tortle]]'s are large intelligent humanoid turtle creatures. They are rare but can be found typically on islands within [[World (Erodas)/Korlornium/The Scar\|The Scar]].

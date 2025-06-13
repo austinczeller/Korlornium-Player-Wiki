@@ -9,7 +9,7 @@
 
 Unlike the mortal fear of death, [[Gods/Major Powers/Sibuna\|Sibuna]] is not cruel nor merciful; she is inevitable. She does not take pleasure in the passing of souls but instead ensures that they find their rightful place beyond the veil. In many myths, she is depicted as a great wolf, prowling the edges of reality, her glowing silver eyes watching over the dying. It is said that when a soul is ready to depart, [Sibuna] appears to guide them—whether to rest, to punishment, or to rebirth is not hers to decide, only to deliver.
 
-Across [[World/Korlornium/Korlornium\|Korlornium]], the wolf serves as her sacred symbol, and those who honor [[Gods/Major Powers/Sibuna\|Sibuna]] often bear cloaks, pendants, or tattoos of a wolf’s head or paw. While many fear her, others revere her as a guardian—the last embrace before the unknown.
+Across [[World (Erodas)/Korlornium/Korlornium\|Korlornium]], the wolf serves as her sacred symbol, and those who honor [[Gods/Major Powers/Sibuna\|Sibuna]] often bear cloaks, pendants, or tattoos of a wolf’s head or paw. While many fear her, others revere her as a guardian—the last embrace before the unknown.
 
 Some myths tell of [[Gods/Major Powers/Sibuna\|Sibuna]] hunting souls who try to escape their fate, chasing them down through the stars or across the fields of the afterlife. Others whisper that when [[Gods/Major Powers/Sibuna\|Sibuna]] howls, it is a warning: death approaches, and no magic, no prayer, can hold it back.
 
