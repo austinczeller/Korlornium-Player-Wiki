@@ -11,5 +11,5 @@ There are several towns and settlements within the [[World (Erodas)/Korlornium/C
 
 ### Towns and Settlements
 - [[World (Erodas)/Korlornium/Caldirth/Frostcrag Glade\|Frostcrag Glade]]
-- [[Cosar Village\|Cosar Village]]
+- [[Steldeen Village\|Steldeen Village]]
 - [[Deadchill\|Deadchill]]

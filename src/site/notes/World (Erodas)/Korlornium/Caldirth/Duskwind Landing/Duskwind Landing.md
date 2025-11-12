@@ -36,7 +36,11 @@ The vibe is a rainy port town, fairly industrial, has a shady side.
 ## Notable NPCs
 
 - [[NPC's/Allies/Borin Duskrag\|Borin Duskrag]] is the leader of the undercity
-- [[NPC's/Neutral/Father Elias Vance\|Father Elias Vance]] is the leader of the [[World (Erodas)/Korlornium/Caldirth/Duskwind Landing/Tidemother Temple of Duskwind\|Tidemother Temple of Duskwind]]
+- [[NPC's/Neutral/Duskwind Landing Locals/Father Elias Vance\|Father Elias Vance]] is the leader of the [[World (Erodas)/Korlornium/Caldirth/Duskwind Landing/Tidemother Temple of Duskwind\|Tidemother Temple of Duskwind]]
 - [[NPC's/Allies/Horace Greentusk\|Horace Greentusk]] is the barkeep at [[World (Erodas)/Korlornium/Caldirth/Duskwind Landing/The Sunken Sail\|The Sunken Sail]]
 - [[NPC's/Allies/Shandra Loomens\|Shandra Loomens]] is the leader of the druid clan
 
+| Article | Location | Species | Organizations |
+| ------- | -------- | ------- | ------------- |
+
+{ .block-language-dataview}

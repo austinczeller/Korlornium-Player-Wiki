@@ -17,15 +17,15 @@ Map is a work in progress and may change as needed.
 **Map last updated March 10 2025**
 
 ### General History of Korlornium Geography
-It is 2000 years since [[History/The Great Wave\|The Great Wave]], the events which created [[World (Erodas)/Korlornium/The Scar\|The Scar]]. [[World (Erodas)/Korlornium/Korlornium\|Korlornium]] is a divided continent both physically and politically. The western side of the continent, [[World (Erodas)/Korlornium/Caldirth/Caldrith\|Caldrith]] is a forested and mountainous region with scattered wetlands. The eastern side of the continent, [[World (Erodas)/Korlornium/Siroth/Siroth\|Siroth]] is characterized by its vast deserts, dry savannahs, and pockets of badlands.
+It is 2000 years since [[History/The Great Wave\|The Great Wave]], the events which created [[World (Erodas)/Korlornium/The Scar Sea/The Scar\|The Scar]]. [[World (Erodas)/Korlornium/Korlornium\|Korlornium]] is a divided continent both physically and politically. The western side of the continent, [[World (Erodas)/Korlornium/Caldirth/Caldrith\|Caldrith]] is a forested and mountainous region with scattered wetlands. The eastern side of the continent, [[World (Erodas)/Korlornium/Siroth/Siroth\|Siroth]] is characterized by its vast deserts, dry savannahs, and pockets of badlands.
 
-Today, most of the continent's civilization lies within [[World (Erodas)/Korlornium/Caldirth/Caldrith\|Caldrith]] in wealthy cities such as [[World (Erodas)/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]](the continent's largest settlement) or [[Konduit\|Konduit]] (the political center). Along the coast of [[World (Erodas)/Korlornium/The Scar\|The Scar]] Sea are many smaller port and trade towns, each with their own craft, trade, produce, or good. 
+Today, most of the continent's civilization lies within [[World (Erodas)/Korlornium/Caldirth/Caldrith\|Caldrith]] in wealthy cities such as [[World (Erodas)/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]](the continent's largest settlement) or [[Konduit\|Konduit]] (the political center). Along the coast of [[World (Erodas)/Korlornium/The Scar Sea/The Scar\|The Scar]] Sea are many smaller port and trade towns, each with their own craft, trade, produce, or good. 
 
-Much of these trades are sent to [[World (Erodas)/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] across [[World (Erodas)/Korlornium/The Scar\|The Scar]] Sea via the protection of pirate gangs. These pirate gangs operate large scows, or flat bottomed ships, which can sail the shallow waters of [[World (Erodas)/Korlornium/The Scar\|The Scar Sea]]. Upon arrival in [[World (Erodas)/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] much of the goods and services are offloaded, only left with the lower quality supplies to be sent off to [[World (Erodas)/Korlornium/Siroth/Siroth\|Siroth]]'s capital, [[Cragbrook\|Cragbrook]]. [[Cragbrook\|Cragbrook]] is the largest civilization on [[World (Erodas)/Korlornium/Siroth/Siroth\|Siroth]] and is riddled with corruption and stark disproportionate distribution of wealth. [[World (Erodas)/Korlornium/Siroth/Siroth\|Siroth]] is generally considered to be poor, and transient populations scour the dry lands for suitable settlement. 
+Much of these trades are sent to [[World (Erodas)/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] across [[World (Erodas)/Korlornium/The Scar Sea/The Scar\|The Scar]] Sea via the protection of pirate gangs. These pirate gangs operate large scows, or flat bottomed ships, which can sail the shallow waters of [[World (Erodas)/Korlornium/The Scar Sea/The Scar\|The Scar Sea]]. Upon arrival in [[World (Erodas)/Korlornium/Caldirth/Dithoria City/Dithoria City\|Dithoria City]] much of the goods and services are offloaded, only left with the lower quality supplies to be sent off to [[World (Erodas)/Korlornium/Siroth/Siroth\|Siroth]]'s capital, [[Cragbrook\|Cragbrook]]. [[Cragbrook\|Cragbrook]] is the largest civilization on [[World (Erodas)/Korlornium/Siroth/Siroth\|Siroth]] and is riddled with corruption and stark disproportionate distribution of wealth. [[World (Erodas)/Korlornium/Siroth/Siroth\|Siroth]] is generally considered to be poor, and transient populations scour the dry lands for suitable settlement. 
 
 
 ### Events of The Great Wave and Creation of The Scar
-[[History/The Great Wave\|The Great Wave]] is known as a series of tsunamis and earthquakes which flooded the central lowlands of [[World (Erodas)/Korlornium/Korlornium\|Korlornium]], creating [[World (Erodas)/Korlornium/The Scar\|The Scar]] as it is known today. Notably, [[World (Erodas)/Korlornium/Mount Redshield\|Mount Redshield]] located in the northern central region of the continent violently erupted, covering the region in soot, ash, and magma. 
+[[History/The Great Wave\|The Great Wave]] is known as a series of tsunamis and earthquakes which flooded the central lowlands of [[World (Erodas)/Korlornium/Korlornium\|Korlornium]], creating [[World (Erodas)/Korlornium/The Scar Sea/The Scar\|The Scar]] as it is known today. Notably, [[World (Erodas)/Korlornium/Mount Redshield\|Mount Redshield]] located in the northern central region of the continent violently erupted, covering the region in soot, ash, and magma. 
 
 Prior to [[History/The Great Wave\|The Great Wave]], much of [[World (Erodas)/Korlornium/Korlornium\|Korlornium]]'s people lived in settlements in the central lowlands of the continent, therefore much of the written records of [[History/The Great Wave\|The Great Wave]] were lost. However, pockets of communities were able to survive this catastrophe as they escaped toward high ground. Survivors speculated that [[History/The Great Wave\|The Great Wave]] was an act of the gods. It is a common sentiment that the civilizations residing in central lowlands were meddling in arcane powers beyond the gods' wishes. 
 
@@ -34,15 +34,16 @@ For a time after [[History/The Great Wave\|The Great Wave]] magic users were per
 ### Species present in Korlornium
 [[World (Erodas)/Korlornium/Korlornium\|Korlornium]] is full of diverse cultures and peoples from a variety of intelligent species.
 The most common species present in [[World (Erodas)/Korlornium/Korlornium\|Korlornium]] are as follows:
+- [[Species/Common Intelligent Species/Dragonborn\|Dragonborn]]
 - [[Species/Common Intelligent Species/Drow\|Drow]]
 - [[Species/Common Intelligent Species/Dwarf\|Dwarf]]
 - [[Species/Common Intelligent Species/Fowlmen\|Fowlmen]]
-- [[Species/Common Intelligent Species/Gnome\|Gnome]]
 - [[Species/Common Intelligent Species/Elf\|Elf]]
-- [[Species/Common Intelligent Species/Orc\|Orc]]
-- [[Species/Common Intelligent Species/Tiefling\|Tiefling]]
-- [[Species/Common Intelligent Species/Goblin\|Goblin]]
+- [[Species/Common Intelligent Species/Gnome\|Gnome]]
 - [[Species/Common Intelligent Species/Halfling\|Halfling]]
+- [[Species/Common Intelligent Species/Goblin\|Goblin]]
+- [[Species/Common Intelligent Species/Tiefling\|Tiefling]]
+- [[Species/Common Intelligent Species/Orc\|Orc]]
 - [[Species/Common Intelligent Species/Human\|Human]]
 
 { .block-language-dataview}
@@ -57,15 +58,15 @@ Although many more species are present in Korlornium, these are the most common.
 The gods are known as immortal beings who work together to shape [[Planes/The Mundane World\|The Mundane World]].
 The following list is the current list of major powers:
 
-- [[Gods/Major Powers/Dithoria (God)\|Dithoria (God)]]
-- [[Gods/Major Powers/Forgas\|Forgas]]
-- [[Gods/Major Powers/Parsus\|Parsus]]
-- [[Gods/Major Powers/Solwyn\|Solwyn]]
-- [[Gods/Major Powers/Sibuna\|Sibuna]]
-- [[Gods/Major Powers/Elaris\|Elaris]]
 - [[Gods/Major Powers/Alune\|Alune]]
-- [[Gods/Major Powers/Tidemother\|Tidemother]]
+- [[Gods/Major Powers/Dithoria (God)\|Dithoria (God)]]
+- [[Gods/Major Powers/Elaris\|Elaris]]
+- [[Gods/Major Powers/Sibuna\|Sibuna]]
+- [[Gods/Major Powers/Forgas\|Forgas]]
 - [[Gods/Major Powers/Sora\|Sora]]
 - [[Gods/Major Powers/Ulthagos\|Ulthagos]]
+- [[Gods/Major Powers/Parsus\|Parsus]]
+- [[Gods/Major Powers/Solwyn\|Solwyn]]
+- [[Gods/Major Powers/Tidemother\|Tidemother]]
 
 { .block-language-dataview}

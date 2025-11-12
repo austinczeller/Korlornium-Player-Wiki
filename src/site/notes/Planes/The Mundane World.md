@@ -4,6 +4,6 @@
 
 # The Mundane World
 ![Planar Diagram.jpeg](/img/user/z_Assests/Images/Planar%20Diagram.jpeg)
-The Mundane World is the same as the material plane. This is the plane in which [[World (Erodas)/Korlornium/Korlornium\|Korlornium]] exists. It exists in parallel to the [[Feywild\|Feywild]] and [[The Shadowfell\|The Shadowfell]].
+The Mundane World is the same as the material plane. This is the plane in which [[World (Erodas)/Korlornium/Korlornium\|Korlornium]] exists. It exists in parallel to the [[Planes/Feywild\|Feywild]] and [[The Shadowfell\|The Shadowfell]].
 
 
