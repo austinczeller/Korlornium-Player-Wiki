@@ -37,14 +37,14 @@ The most common species present in [[World (Erodas)/Korlornium/Korlornium\|Korlo
 - [[Species/Common Intelligent Species/Dragonborn\|Dragonborn]]
 - [[Species/Common Intelligent Species/Drow\|Drow]]
 - [[Species/Common Intelligent Species/Dwarf\|Dwarf]]
-- [[Species/Common Intelligent Species/Fowlmen\|Fowlmen]]
 - [[Species/Common Intelligent Species/Elf\|Elf]]
+- [[Species/Common Intelligent Species/Goblin\|Goblin]]
+- [[Species/Common Intelligent Species/Fowlmen\|Fowlmen]]
 - [[Species/Common Intelligent Species/Gnome\|Gnome]]
 - [[Species/Common Intelligent Species/Halfling\|Halfling]]
-- [[Species/Common Intelligent Species/Goblin\|Goblin]]
-- [[Species/Common Intelligent Species/Tiefling\|Tiefling]]
 - [[Species/Common Intelligent Species/Orc\|Orc]]
 - [[Species/Common Intelligent Species/Human\|Human]]
+- [[Species/Common Intelligent Species/Tiefling\|Tiefling]]
 
 { .block-language-dataview}
 
@@ -58,15 +58,15 @@ Although many more species are present in Korlornium, these are the most common.
 The gods are known as immortal beings who work together to shape [[Planes/The Mundane World\|The Mundane World]].
 The following list is the current list of major powers:
 
-- [[Gods/Major Powers/Alune\|Alune]]
 - [[Gods/Major Powers/Dithoria (God)\|Dithoria (God)]]
-- [[Gods/Major Powers/Elaris\|Elaris]]
-- [[Gods/Major Powers/Sibuna\|Sibuna]]
-- [[Gods/Major Powers/Forgas\|Forgas]]
-- [[Gods/Major Powers/Sora\|Sora]]
-- [[Gods/Major Powers/Ulthagos\|Ulthagos]]
 - [[Gods/Major Powers/Parsus\|Parsus]]
+- [[Gods/Major Powers/Forgas\|Forgas]]
+- [[Gods/Major Powers/Sibuna\|Sibuna]]
+- [[Gods/Major Powers/Elaris\|Elaris]]
 - [[Gods/Major Powers/Solwyn\|Solwyn]]
+- [[Gods/Major Powers/Alune\|Alune]]
+- [[Gods/Major Powers/Sora\|Sora]]
 - [[Gods/Major Powers/Tidemother\|Tidemother]]
+- [[Gods/Major Powers/Ulthagos\|Ulthagos]]
 
 { .block-language-dataview}
