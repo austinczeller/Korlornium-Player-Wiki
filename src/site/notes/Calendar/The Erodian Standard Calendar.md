@@ -29,7 +29,8 @@ Each month is equal length (80 days) regardless regional seasonal differences.
 Creating a yearly calendar of 320 total days.
 
 ## Related Articles
-| Article | Type |
-| ------- | ---- |
+| Article                                                                                          | Type   |
+| ------------------------------------------------------------------------------------------------ | ------ |
+| [[Things and Objects/Books/General Histories of Korlornium\|General Histories of Korlornium]] | Object |
 
 { .block-language-dataview}

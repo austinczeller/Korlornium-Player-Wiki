@@ -16,11 +16,11 @@ Regards,
 Map is a work in progress and may change as needed.
 **Map last updated November 20 2025**
 
-### Erodian Calendar
+### Calendar
+The [[Calendar/The Erodian Standard Calendar\|The Erodian Standard Calendar]] is observed in Korlornium.
 
-```calendarium
-current
-```
+> [!tip]
+> Click [here](https://app.fantasy-calendar.com/calendars/1ace9b1ba0c9b96a062d6ffdca5910f4) to view the calendar on fantasy-calendar.com 
 
 ### General History of Korlornium Geography
 It is 2000 years since [[History/The Great Wave\|The Great Wave]], the events which created [[World (Erodas)/Korlornium/The Scar Sea/The Scar\|The Scar]]. [[World (Erodas)/Korlornium/Korlornium\|Korlornium]] is a divided continent both physically and politically. The western side of the continent, [[World (Erodas)/Korlornium/Caldrith\|Caldrith]] is a forested and mountainous region with scattered wetlands. The eastern side of the continent, [[World (Erodas)/Korlornium/Siroth/Siroth\|Siroth]] is characterized by its vast deserts, dry savannahs, and pockets of badlands.
