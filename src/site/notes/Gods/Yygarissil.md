@@ -9,6 +9,7 @@ In [[World (Erodas)/Korlornium/Korlornium\|Korlornium]] people have claimed to s
 
 [[Gods/Major Powers/Ulthagos\|Ulthagos]] was cursed to have to carry the burden of sculpting the material world and is not in [[Gods/Yygarissil\|Yygarissil]]
 
+The gods have power over [[World (Erodas)/Erodas\|Erodas]] due to the location in which they reside as the Gods travel to different locations within [[Gods/Yygarissil\|Yygarissil]] this creates natural phenomena which ripples unto [[World (Erodas)/Erodas\|Erodas]].
 
 ### Entities believed to be within Yygarissil
 - [[Gods/Major Powers/Alune\|Alune]]

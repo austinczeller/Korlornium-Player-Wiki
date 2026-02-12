@@ -3,4 +3,4 @@
 ---
 
 # Dragonborn
-[[Species/Common Intelligent Species/Dragonborn\|Dragonborn]] are humanoid species with features resembling [[Species/Creature Species/Dragon\|Dragons]]. They originate from the continent [[World (Erodas)/Dracofold\|Dracofold]] but are found all over [[World (Erodas)/Erodas\|Erodas]]. 
+[[Species/Common Intelligent Species/Dragonborn\|Dragonborn]] are humanoid species with features resembling [[Ecology/Creature Species/Dragon\|Dragons]]. They originate from the continent [[World (Erodas)/Dracofold\|Dracofold]] but are found all over [[World (Erodas)/Erodas\|Erodas]]. 
